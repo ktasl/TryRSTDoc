@@ -1,15 +1,6 @@
 匯入專案
 ========
 
-.. toctree::
-    :maxdepth: 2
-    :caption: Table of Contents
-    :name: mastertoc
-    :hidden:
-
-
-    Statement
-    匯入 <Import>
 
 此章節將介紹如何匯入 範例專案及 SDK \* \* \*
 
