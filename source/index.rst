@@ -22,7 +22,7 @@ Welecome Beacon 感知元件 使用手冊
     :glob:
     :hidden:
 
-    Import/*
+    匯入 <Import/Import>
 
 Relative Link
 =============
