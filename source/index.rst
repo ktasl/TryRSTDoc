@@ -12,7 +12,6 @@ Welecome Beacon 感知元件 使用手冊
     :glob:
     :hidden:
 
-    index
     Statement
     Import
 
