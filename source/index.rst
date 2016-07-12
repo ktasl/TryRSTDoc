@@ -9,15 +9,19 @@ Welecome Beacon 感知元件 使用手冊
 
 .. toctree::
     :maxdepth: 2
+    :caption: Table of Contents 1
+    :name: mastertoc1
     :hidden:
 
-    :caption: Table of Contents1
-    :name: mastertoc1
     Statement
-    :caption: Table of Contents2
-    :name: mastertoc2
-    匯入 <Import>
 
+.. toctree::
+    :maxdepth: 2
+    :caption: Table of Contents 2
+    :name: mastertoc2
+    :hidden:
+
+    匯入 <Import>
 
 Relative Link
 =============
