@@ -3,13 +3,12 @@ Welecome Beacon 感知元件 使用手冊
 
 本元件為 **中華電信研究院匯流服務研究所 Beacon技術研發團隊** 開發製作
 
-若有任何問題歡迎請直接聯繫
-`技術窗口 <mailto:michaelangelo@cht.com.tw>`__
+請直接使用左邊索引欄位或利用搜尋找到想要的功能
+
+若參閱文件中有任何問題歡迎請直接聯繫 `技術窗口 <mailto:michaelangelo@cht.com.tw>`__
 
 .. toctree::
     :maxdepth: 2
-    :titlesonly:
-    :glob:
     :hidden:
 
     Statement
