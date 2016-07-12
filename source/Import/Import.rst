@@ -3,8 +3,6 @@
 
 .. toctree::
     :maxdepth: 2
-    :caption: Table of Contents 2
-    :name: mastertoc2
     :glob:
     :hidden:
 
