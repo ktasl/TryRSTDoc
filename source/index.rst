@@ -19,9 +19,10 @@ Welecome Beacon 感知元件 使用手冊
     :maxdepth: 2
     :caption: Table of Contents 2
     :name: mastertoc2
+    :glob:
     :hidden:
 
-    匯入 <Import>
+    匯入 <Import/*>
 
 Relative Link
 =============
