@@ -16,7 +16,7 @@ Welecome Beacon 感知元件 使用手冊
     Statement
 
 .. toctree::
-    :maxdepth: 2
+    :maxdepth: 4
     :caption: Table of Contents 2
     :name: mastertoc2
     :glob:
